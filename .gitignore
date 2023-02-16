@@ -32,4 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
+src/main/java/com/reverseauction/controllers/TestController.java
 logs
+

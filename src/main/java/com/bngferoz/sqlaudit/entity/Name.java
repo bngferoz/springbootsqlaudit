@@ -17,7 +17,6 @@ import lombok.Setter;
 @Table(name = "Name")
 @Getter
 @Setter
-@Audited
 public class Name {
 
 	@Id
